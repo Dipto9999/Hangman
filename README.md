@@ -1,2 +1,2 @@
 # Hangman
-A Hangman game programmed using the University of Toronto created Turing procedural programming language.
+A Hangman game made with the use of UofT's Turing procedural programming language.
